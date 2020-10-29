@@ -1,4 +1,4 @@
-# MITMakerPortfolio
+# MIT Maker Portfolio
 A repository containing any programs I developed for my thrust-vector-controlled rocket project.
 
 ## Arduino
